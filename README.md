@@ -1,4 +1,7 @@
 # SJU ACM Clue
+![SJU ACM Clue Thumbnail - Copy](https://github.com/SJUACM/Clue/assets/91490989/d30fd370-135f-41b1-865c-2dfea85d5e2f)
+
+
 HELP! St. John’s University has been HACKED, and SJU ACM members have been recruited to investigate. Put your skills to the test by examining the culprit’s USB drive to figure out who did it, where they did it, and what malware they used.
 
 ## A Hack at St. John's
