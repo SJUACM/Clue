@@ -7,4 +7,4 @@ HELP! St. John’s University has been HACKED, and SJU ACM members have been rec
 ## A Hack at St. John's
 The day is Thursday, October 5. The St. John’s ACM Student Chapter club is meeting for its second meeting of the Fall 2023 semester. Upon entering the cyber lab, the club is met with a terrifying discovery: St. John’s University has been HACKED! The only piece of evidence left behind by the attacker is a USB drive. St. John’s IT was able to estimate that the hack occurred at approximately 12 pm on Thursday, October 5, however, they suspect that a member of the SJU ACM e-board was behind it all. To assist in the investigation, the members of SJU ACM have agreed to examine the contents of the USB drive in hopes of uncovering the true identity of the culprit. It’s up to you to figure out who did it, where they did it, and what malware they used. 
 
-[USB drive image]()
+[USB drive image](A Hack at St. Johns\usb-evidence.E01)
