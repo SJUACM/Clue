@@ -24,6 +24,6 @@ The day is Wednesday, April 17. The St. John’s ACM Student Chapter e-board is 
 
 Download the slides (including a list of the possible culprits, locations, and malware) [here](https://github.com/SJUACM/Clue/blob/main/An%20Incident%20in%20the%20Cloud/Cloud%20Incident%20Response%20Lab.pdf).
 
-Watch the walkthrough video here (will be added later).
+Watch the walkthrough video [here](https://www.youtube.com/watch?v=fjgw7Md_-jE).
 
-Learn how it was made here (will be added later).
+Learn how it was made [here](https://www.youtube.com/watch?v=w7DCHJyRPO8).
